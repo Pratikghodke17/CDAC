@@ -1,0 +1,7 @@
+
+~~~~~~~~~~~~~~~~~~~~MOVIE APPLICATION:~~~~~~~~~~~~~~~~~~~~~~
+*                    1.Add Movie Review                    *
+*                    2.Show Movie Review                   *
+*                    3.Exit                                *
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    * Enter choice: *
